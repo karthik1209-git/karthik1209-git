@@ -7,8 +7,8 @@ I build AI systems that move from data to decisions — RAG pipelines, multimoda
 
 <p align="center">
   <a href="https://worksofkcp.vercel.app"><img src="https://img.shields.io/badge/Portfolio-worksofkcp-0A66C2?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="linkedin.com/in/kcpapatla"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kcpapatla@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
